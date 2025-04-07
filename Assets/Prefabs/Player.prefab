@@ -73,8 +73,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ecf982765e1124740ab23a125b6cf136, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 10
-  sens: 1
+  speed: 75
+  sens: 0.1
   gravity: -9.8
   excludePlayerLayer:
     serializedVersion: 2
